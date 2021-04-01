@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Bem Vindo&gt; <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 <h4 align="center">Bem Vindo Ao Perfil Do Erick (NELTRON)</h4>
-<p align="center">Eu Sou Erick Mais Conhecido Por NELTRON Sou Developer A 3 anos<p>
-<p align="center">Atualmente Trabalho Na <B>Floureon Host</B> E Na <b>Wifinwed Programs</b><p>
+<p align="center">Eu Sou Erick Mais Conhecido Por NELTRON Sou Developer <b>Front End</b> E <b>Back End</b> A 3 anos Atualmente Trabalho Na <B>Floureon Host</B> E Na <b>Wifinwed Programs</b><p>
+<p align="center"><p>
 <h4 align="center">Desenvolvo Em:</h4>
 
  - **HTML** 
