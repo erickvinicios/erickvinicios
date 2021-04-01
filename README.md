@@ -14,7 +14,7 @@
 
  <img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="30px"> Discord: **ERICK#0502**
  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDiNlhXwmA0VTBvJUwksmp0APbOaX54KwbA&usqp=CAU" width="30px"> Twitter: **/MobileNeltron**
+ <img src="https://img2.pngio.com/gray-twitter-icon-free-gray-social-icons-twitter-logo-color-png-256_256.png" width="30px"> Twitter: **/MobileNeltron**
  
  <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" width="30px"> Instagram: **/neltrons**
 
