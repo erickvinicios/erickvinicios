@@ -18,4 +18,4 @@
  
  <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" width="30px"> Instagram: **/neltrons**
 
- <img src="https://iconarchive.com/download/i75211/cornmanthe3rd/metronome/Communication-email-blue.ico" width="30px"> Email: **neltronserices@gmail.com**
+ <img src="https://iconarchive.com/download/i75211/cornmanthe3rd/metronome/Communication-email-blue.ico" width="30px"> Email: **neltronservices@gmail.com**
