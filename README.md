@@ -1,5 +1,5 @@
 <h1>Bem Vindos Ao Meu Perfilzin :3 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
-<p>Eu Sou Erick Vinicios Sou Developer <b>Front End</b> E <b>Back End</b> A 4 anos Atualmente Desenvolvendo Para <b>FLOUREON</b></p><br>
+<p>Eu Sou Erick Vinicios Sou Developer <b>Front End</b> E <b>Back End</b> A 6 anos Atualmente Desenvolvendo Para <b>FLOUREON</b></p><br>
 
 <div>
 	<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=erickvinicios&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
